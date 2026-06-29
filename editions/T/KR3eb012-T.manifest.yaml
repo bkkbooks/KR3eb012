@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3eb012/T/v1
+canonical_location: https://kanripo.org/bkk/KR3eb012/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 脈訣指掌病式圖說
+  identifiers:
+    krp: KR3eb012
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb012.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3eb012_001-T.yaml, hash: 'sha256:acbed5393cdec9bf840a94b4664911f14e34ebfa8d1ba740f85cd427bb3dd2e1'}
+table_of_contents: []
+hash: sha256:f2576524757ef02d9306cb8a6cba97a0f68abdec05692dc5f98a3bb62fa1014f
