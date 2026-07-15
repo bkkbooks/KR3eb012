@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb012/v1
 canonical_location: https://kanripo.org/bkk/KR3eb012/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 脈訣指掌病式圖說
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3eb012_001.yaml
     hash: sha256:acbed5393cdec9bf840a94b4664911f14e34ebfa8d1ba740f85cd427bb3dd2e1
 table_of_contents: []
-hash: sha256:ea68cd43c9593b6bf8d102ac6453e13877be5cd68e9a8fdc22a997e50acaf4b7
+hash: sha256:94bf804221122386e731288bde0c3b7828e7dd495c8f39ecd5c9c7a22eda96b0
